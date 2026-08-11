@@ -23,6 +23,7 @@
 , "guests": "agpl3Plus"
 , "impersonate": "agpl3Plus"
 , "integration_deepl": "agpl3Plus"
+, "integration_immich": "agpl3Plus"
 , "integration_openai": "agpl3Only"
 , "integration_paperless": "agpl3Plus"
 , "mail": "agpl3Plus"
